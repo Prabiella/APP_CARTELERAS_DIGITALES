@@ -1,0 +1,4 @@
+#Mon Jun 26 23:34:11 CDT 2023
+base.0=/Users/admin/Documents/PROYECTO/app_smartv/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

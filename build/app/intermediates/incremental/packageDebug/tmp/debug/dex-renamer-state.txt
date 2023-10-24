@@ -1,0 +1,4 @@
+#Mon Jun 26 22:34:46 CDT 2023
+base.0=/Users/admin/Documents/PROYECTO/app_smartv/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
